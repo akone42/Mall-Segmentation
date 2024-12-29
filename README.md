@@ -1,4 +1,4 @@
-Mall Customer Segmentation
+# Mall-Segmentation
 
 This project leverages data analysis and machine learning techniques to segment a mall's target market into distinct and actionable customer groups. By analyzing demographic and behavioral criteria, we aim to provide insights that enhance marketing strategies and improve customer targeting.
 
